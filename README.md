@@ -2,7 +2,7 @@
 # ViViT Exploration
 
 This repository is my personal playground for exploring **ViViT (Video Vision Transformer)**.
-Right now, the focus is just on understanding and playing with the model — nothing fancy yet 😎.
+Right now, the focus is just on understanding and playing with the model.
 
 ---
 
